@@ -4,7 +4,7 @@
 ```
 sudo apt-get install -y batctl
 ```
-*Have batman-adv startup automatically on boot  
+* Have batman-adv startup automatically on boot  
 ```
 echo 'batman-adv'
 sudo tee --append /etc/modules
