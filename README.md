@@ -1,7 +1,9 @@
 # batman-adv-mesh-connection
 ## Installing BATMAN-ADV
 
-sudo apt-get install -y batctl  
+```
+sudo apt-get install -y batctl
+```
 *Have batman-adv startup automatically on boot  
 ```
 echo 'batman-adv'
